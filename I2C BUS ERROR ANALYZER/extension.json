@@ -1,7 +1,7 @@
 {
   "name": "I2C BUS ERROR ANALYZER",
   "apiVersion": "1.0.0",
-  "author": "JIN",
+  "author": "Kopper29",
   "version": "0.0.1",
   "description": "Find I2C bus errors - where SDA unexpectedly changes while SCL is high.",
   "extensions": {
